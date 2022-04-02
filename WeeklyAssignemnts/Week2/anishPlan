@@ -5,4 +5,10 @@ Philip A. Kocher has recieved encrypted emails to an account
 child pornography, we can assume that this could relate to the
 evidence that we needed. Yet we cannot assume this as good enough
 evidence to bring him into custody, so to do so we need to find what
-the encrypted email contains within it. 
+the encrypted email contains within it. Depending on the method of
+encryption we would be able to decrypt the email. If the email was
+encrypted using a Transport Layer Security (TLS) we would be able to
+decrypt it using softwares such as wireshark. If it was encrypted
+using end to end encrption it would be very hard to hack the email
+contents while being delivered but we could attack the endpoints
+themselves. 
