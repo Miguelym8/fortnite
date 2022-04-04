@@ -1,0 +1,2 @@
+Now that we have been given the information that Mr. Kocher had recieved encrypted emails to an account @codermlerin.com, we can obtain evidence somehow through the email.
+We need to figure out methods on decryption to gain access to the email. If the email was encrypted using a Transport Layer Security (TLS), publically available programs such as Wireshark would be sufficient enough.
