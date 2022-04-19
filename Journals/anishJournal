@@ -12,3 +12,17 @@ a plan to actually decrypt the email based on the type of encryption
 that was given, either TLS/SSL or end to end encryption. We could use
 this as concrete evidence towards proving the suspect of possession of
 child pornography.
+
+04/03/2022
+
+Given that we have permission to hack the email account we will
+research the manner in which Mr. Kocher email is encrypted and learn
+more about hash's in order to aid us
+
+04/12/2022
+
+After learning that the email was encrypted using MD5 we will work on
+a script using hash's to find the password. A common problem that we
+are encountering is how to read the whole file that was given to us to
+use to crack the password. A solution we will work towards is breaking
+up the file into smaller protions to read.
