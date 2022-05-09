@@ -1,3 +1,26 @@
-sdf
+3/25/2022
 
-hello
+Started working on the plan for the first week. Spoke with miguel about possible strategies, with the limitation of not having a warrant our strategies have to remain pretty passive. With more information
+and hopefully a warrant, it should be easier to incriminate Philip.
+
+3/28/2022
+
+With the information given to use by Christopher Wray we may be able to gain accecess to his email and possible decrypt them. Looking through the files in usr/txt/merlin reveals a dictionary attack word list and a strange excerpt from alice in wonder land.
+
+3/30/2022
+
+Spoke with miguel and anish on a possible plan to prove philips crime. We discussed ways to gain access to the email server or to use passive attacks like catfishing philip. Also discussing a dictionary attack as this is what our field agent suggested would be helpful.
+
+4/03/2022
+
+Alot of information and permission was given to us this week. We found the password where a field agent told us it would be. I then created a script to hash passwords in the dictionary attack file and see if they matched the hashed password we received. After trying different encryption methods it was determine to be MD5 and the password string was obtained and is WLDME_FOREVER2005.
+
+4/20/2022
+
+We plan to use SFTP to obtain the data within the file without reading it to not raise suspicion of philip a Kocher, we then will try to recover the information from the file
+
+4/26/2022
+
+We tracked the location of Mr Kochers intended distribution of data and gained enough evidence to show that philip is guilty of possessing child pornography
+
+
