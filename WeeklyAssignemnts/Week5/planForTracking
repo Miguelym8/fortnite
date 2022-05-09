@@ -1,0 +1,5 @@
+We plan on obtaining the information by downloading the file using a
+sftp so that Mr. Kocher would not be alarmed from others findinf the
+contents of the file. Now that we had the data of the file, we could
+convert the data of the file into a PNG and find the location, time,
+and date.
