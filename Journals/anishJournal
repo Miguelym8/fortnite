@@ -26,3 +26,14 @@ a script using hash's to find the password. A common problem that we
 are encountering is how to read the whole file that was given to us to
 use to crack the password. A solution we will work towards is breaking
 up the file into smaller protions to read.
+
+04/16/2022
+Our plan to find the setting of the distribution of Phillips content
+is to use a sftp to get the file data without reading the contents to
+make sure Mr. Kocher is unaware. We will than attempt to get the data
+from the potential file to find the distrubution means and setting.
+
+04/26/2022
+We executed our plan and tracked the setting of Mr. Kocher's
+distrubution, gaining emough evidence to prove him guilty of possesing
+child pornography.
