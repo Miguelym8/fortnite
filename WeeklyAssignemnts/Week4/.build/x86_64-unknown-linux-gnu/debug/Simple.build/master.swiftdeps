@@ -1,0 +1,6 @@
+version: "Swift version 5.5.3 (swift-5.5.3-RELEASE)"
+options: "5d59080a376798b1e56a6096c213c0d70a5efc0a15d48cf9fb7da968ca254f3b"
+build_start_time: [1649718948, 361217975]
+build_end_time: [1649718948, 960842132]
+inputs:
+  "/home/robert-smith/cyber/hashing/main.swift": [1649718947, 439861297]
